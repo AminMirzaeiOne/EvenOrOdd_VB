@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("EvenOrOdd")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Among the first projects of Amin Mirzaei after learning the basic concepts of Visual Basic - (Microsoft VB.NET 14.0) - (Visual Studio 2012)")>
+<Assembly: AssemblyCompany("AminMirzaeiOne")>
 <Assembly: AssemblyProduct("EvenOrOdd")>
-<Assembly: AssemblyCopyright("Copyright ©  2024")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyCopyright("Copyright ©  2016")>
+<Assembly: AssemblyTrademark("AminMirzaeiOne")>
 
 <Assembly: ComVisible(False)>
 
